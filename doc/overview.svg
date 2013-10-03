@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="diagram.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3802"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3799"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3814"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3796"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3793"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3793-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3793-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6301693"
+     inkscape:cx="384.13864"
+     inkscape:cy="310.3763"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="760"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#575757;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2989"
+       width="259.22"
+       height="57.372467"
+       x="30.731312"
+       y="178.57245" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.98262787px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.858044"
+       y="202.31145"
+       id="text2991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="44.858044"
+         y="202.31145"
+         id="tspan2995">Applications requiring</tspan><tspan
+         sodipodi:role="line"
+         x="44.858044"
+         y="224.78973"
+         id="tspan2999">aliasses/share data about</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 249.23024,279.47614 c 0,0 0,-18.44001 0,-45.66095"
+       id="path3769"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 95.703707,280.00994 0,-43.90477"
+       id="path3769-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#575757;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4421"
+       width="187.96959"
+       height="59.487591"
+       x="27.507183"
+       y="278.88211" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.70961761px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="40.280254"
+       y="302.49207"
+       id="text4423"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4425"
+         x="40.280254"
+         y="302.49207"
+         style="font-size:18px">gpgshare obtained</tspan><tspan
+         sodipodi:role="line"
+         x="40.280254"
+         y="324.99207"
+         id="tspan4429"
+         style="font-size:18px">directory  </tspan></text>
+    <rect
+       style="fill:#575757;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4421-9"
+       width="364.03461"
+       height="74.555305"
+       x="222.3484"
+       y="277.74509" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.89941597px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="230.82399"
+       y="298.25833"
+       id="text4423-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4425-5"
+         x="230.82399"
+         y="298.25833">gpgshare to-send</tspan><tspan
+         sodipodi:role="line"
+         x="230.82399"
+         y="320.6326"
+         id="tspan4429-5">directories</tspan><tspan
+         sodipodi:role="line"
+         x="230.82399"
+         y="343.00687"
+         id="tspan4458">one for each private/public community</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="596.25708"
+       y="142.0273"
+       id="text4464"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4466"
+         x="596.25708"
+         y="142.0273" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.43361568px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="97.252174"
+       y="265.94119"
+       id="text4470"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0052429,0.99478444)"><tspan
+         sodipodi:role="line"
+         id="tspan4472"
+         x="97.252174"
+         y="265.94119">(limit access)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend)"
+       d="m 551.87939,354.10957 c 0,28.83136 0.61344,49.68809 0.61344,49.68809 l -17.78956,0 -16.5627,0"
+       id="path4498"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.64617252px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="379.30951"
+       y="377.6687"
+       id="text4504"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4506"
+         x="379.30951"
+         y="377.6687">.pubshare/.privshare</tspan><tspan
+         sodipodi:role="line"
+         x="379.30951"
+         y="389.72641"
+         id="tspan4508">signed/encrypted</tspan><tspan
+         sodipodi:role="line"
+         x="379.30951"
+         y="401.78412"
+         id="tspan4510">data file</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 128.33723,383.33749 c -11.81575,0.47097 -45.734244,0.21688 -45.734244,0.21688 l 0,-44.16719"
+       id="path4512"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.11350346px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="379.73114"
+       y="419.18311"
+       id="text4470-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0052429,0.99478444)"><tspan
+         sodipodi:role="line"
+         id="tspan4472-6"
+         x="379.73114"
+         y="419.18311">(no interest in</tspan><tspan
+         sodipodi:role="line"
+         x="379.73114"
+         y="430.57498"
+         id="tspan5849"> method of sending)</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5899"
+       sodipodi:cx="350.88379"
+       sodipodi:cy="329.12442"
+       sodipodi:rx="88.947815"
+       sodipodi:ry="43.553757"
+       d="m 439.8316,329.12442 a 88.947815,43.553757 0 1 1 -177.89563,0 88.947815,43.553757 0 1 1 177.89563,0 z"
+       transform="translate(75.855221,73.446366)" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6089"
+       width="156.58804"
+       height="29.60737"
+       x="130.67621"
+       y="375.80518" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.9361105px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="138.58147"
+       y="396.41019"
+       id="text6091"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6093"
+         x="138.58147"
+         y="396.41019">gpg share program</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 287.96966,395.2096 c 0,0 22.73405,0 49.955,0"
+       id="path3769-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 291.17027,209.95277 c 34.9657,0 34.9657,0 34.9657,0"
+       id="path6119"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.68054008px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="343.99146"
+       y="203.01268"
+       id="text6121"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6123"
+         x="343.99146"
+         y="203.01268">request for some data</tspan><tspan
+         sodipodi:role="line"
+         x="343.99146"
+         y="216.36336"
+         id="tspan6125"
+         style="fill:#4d4d4d">(likely when too much to all obtain,</tspan><tspan
+         sodipodi:role="line"
+         x="343.99146"
+         y="229.71404"
+         style="fill:#4d4d4d"
+         id="tspan6175">and other 'alias' is aggrerator)</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.90913355;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5899-1"
+       sodipodi:cx="350.88379"
+       sodipodi:cy="329.12442"
+       sodipodi:rx="88.947815"
+       sodipodi:ry="43.553757"
+       d="m 439.8316,329.12442 a 88.947815,43.553757 0 1 1 -177.89563,0 88.947815,43.553757 0 1 1 177.89563,0 z"
+       transform="matrix(1.2126694,0,0,0.99770517,8.5941714,-119.02981)" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.20404434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="607.27686"
+       y="307.7901"
+       id="text6163"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6165"
+         x="607.27686"
+         y="307.7901">some</tspan><tspan
+         sodipodi:role="line"
+         x="607.27686"
+         y="339.29517"
+         id="tspan6167">server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="50.301521"
+       y="26.088425"
+       id="text6169"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6171"
+         x="50.301521"
+         y="26.088425" /></text>
+    <rect
+       style="fill:#4d4d4d;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6369"
+       width="91.40155"
+       height="66.250786"
+       x="602.18085"
+       y="281.72446" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 541.45102,207.49904 c 89.56125,0 106.12395,0 106.12395,0 0,21.47016 0,41.0728 0,44.16719 l -0.68461,28.25902"
+       id="path6373"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow2Lend)"
+       d="m 640.8272,347.36181 c 0,76.67915 0,77.90601 0,77.90601 l -138.6359,0"
+       id="path6379"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow1Mend)"
+       d="m 646.3481,262.09459 c -53.36869,0 -53.36869,2.45373 -53.36869,2.45373 l 0,186.4837 -358.24499,0 0,-44.16719"
+       id="path6383"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.37786579px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="229.71802"
+       y="466.38458"
+       id="text7741"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7743"
+         x="229.71802"
+         y="466.38458">wake up when request received</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="47.023861"
+       y="747.93365"
+       id="text7745"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7747"
+         x="47.023861"
+         y="747.93365"
+         style="font-size:16px;font-weight:bold">For comment-anywhere:</tspan><tspan
+         sodipodi:role="line"
+         x="47.023861"
+         y="767.93365"
+         style="font-size:16px"
+         id="tspan7825">* Requests would be to get comments for a website, they'd be stored in obtained</tspan><tspan
+         sodipodi:role="line"
+         x="47.023861"
+         y="787.93365"
+         style="font-size:16px"
+         id="tspan7835">   something like <tspan
+   style="fill:#008000"
+   id="tspan7837">access_allowed_group/*/comment-anywhere/comments </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="47.023861"
+         y="807.93365"
+         style="font-size:16px"
+         id="tspan7841">   might get all the comments for a web page.</tspan><tspan
+         sodipodi:role="line"
+         x="47.023861"
+         y="827.93365"
+         id="tspan7763"
+         style="font-size:16px">* the to-send directories contain own comments/replies, ratings of comments</tspan><tspan
+         sodipodi:role="line"
+         x="47.023861"
+         y="847.93365"
+         id="tspan7757"
+         style="font-size:16px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="50.704456"
+       y="515.4425"
+       id="text7767"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="515.4425"
+         style="font-size:18px;font-weight:bold;fill:#000000;-inkscape-font-specification:Sans"
+         id="tspan7771">GPG share directory structure <tspan
+   style="font-weight:normal;fill:#000000"
+   id="tspan7787">(both obtained and to-send)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="537.9425"
+         style="font-size:18px;font-weight:normal;fill:#008000;-inkscape-font-specification:Sans"
+         id="tspan7783">access_allowed_group/alias_id/data_names/</tspan><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="560.4425"
+         style="font-size:18px;font-weight:normal;fill:#000000;-inkscape-font-specification:Sans"
+         id="tspan7775" /><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="582.9425"
+         style="font-size:18px;font-weight:normal;fill:#000000;-inkscape-font-specification:Sans"
+         id="tspan7801">Applications should get access to some set of <tspan
+   style="fill:#008000"
+   id="tspan7823">data_names</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="605.4425"
+         style="font-size:18px;font-weight:normal;fill:#000000;-inkscape-font-specification:Sans"
+         id="tspan7809" /><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="627.9425"
+         style="font-size:18px;font-weight:normal;fill:#000000;-inkscape-font-specification:Sans"
+         id="tspan7807">request could ask directly;</tspan><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="650.4425"
+         style="font-size:18px;font-weight:normal;fill:#008000;-inkscape-font-specification:Sans"
+         id="tspan7815"> access_allowed_group/alias_id/data_names/some_dir_or_file</tspan><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="672.9425"
+         style="font-size:18px;font-weight:normal;fill:#000000;-inkscape-font-specification:Sans"
+         id="tspan7819">or i suppose</tspan><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="695.4425"
+         style="font-size:18px;font-weight:normal;fill:#008000;-inkscape-font-specification:Sans"
+         id="tspan7797"> access_allowed_group/*/data_names/some_dir_or_file</tspan><tspan
+         sodipodi:role="line"
+         x="50.704456"
+         y="717.9425"
+         style="font-size:18px;font-weight:normal;fill:#000000;-inkscape-font-specification:Sans"
+         id="tspan7799" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="64.813423"
+       y="489.06488"
+       id="text7831"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7833"
+         x="64.813423"
+         y="489.06488"
+         style="font-size:18px;fill:#ff0000">Note: not as currently implemented</tspan></text>
+    <rect
+       style="fill:#666666;fill-opacity:0;stroke:#8a8787;stroke-width:1.8046174;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect7847"
+       width="289.12238"
+       height="38.228249"
+       x="276.5607"
+       y="124.14005" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       x="279.11209"
+       y="140.80043"
+       id="text7849"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7851"
+         x="279.11209"
+         y="140.80043"
+         style="font-size:13px;fill:#666666">browser addons</tspan><tspan
+         sodipodi:role="line"
+         x="279.11209"
+         y="157.05043"
+         id="tspan7853"
+         style="font-size:13px;fill:#666666">(can be limited, may speak to local servers</tspan></text>
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
+       d="m 234.33149,178.83329 c 0,-25.79338 1.22686,-37.41942 1.22686,-37.41942 l 39.87316,0 -1.8403,0"
+       id="path7855"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
