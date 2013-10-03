@@ -15,6 +15,8 @@ looking at their directories for the different users and can then make new outpu
 that go in the same sort of directories that were obtained. This tool can then be 
 used to create a file that others can then use in the same way.
 
+[Here is an overview i made on a way to possibly implement it](https://github.com/o-jasper/gpgshare/blob/master/doc/overview.png).
+
 Of course it doesnt need to be a user-user sharing. You could also have an 
 'aggegrator alias' that users submit too, and it automatically forms
 'opinions' of its own. Or it anonymizes by putting stuff under its own alias.
@@ -40,17 +42,22 @@ there are plenty of ways to do that. Probably later i'll want a program that
 identifies files in for instance emails, getting with http.
 (having a browser plugin that identifies and can download them.)
 
-## TODO
+### TODO
 
-* The `$STORE/self/` directory should be able to contain multiple aliasses
-  the user owns.
+* Initially implement (likely)in bash as overview.
+  (still feel like i should still just be considering things prototypes)
 
 * Files/directories might not be the best way to get some kind of performance.
   Presumably (part -the other is ways of accessing it) of the reason databases
   exist is because filesystems arent always efficient. 
   (But tarballs are fairly efficient in transit?)
 
+  NOTE: it might be better to leave this to the applications themselves.(KISS)
+
 * Test scripts.(see `test/readme.md`)
+
+* Data allowed just for particular programs.. How to do that?.. Maybe the job
+  of OS-level MAC...      
 
 ## License
 The bash shellscripts are currently public domain. Comment anywhere is GPLv2.
