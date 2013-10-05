@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="diagram.svg">
+   sodipodi:docname="overview.svg">
   <defs
      id="defs4">
     <marker
@@ -110,6 +110,20 @@
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
          transform="matrix(0.8,0,0,0.8,10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-7-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3793-0-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -118,9 +132,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6301693"
-     inkscape:cx="384.13864"
-     inkscape:cy="310.3763"
+     inkscape:zoom="1.5254865"
+     inkscape:cx="392.19908"
+     inkscape:cy="519.53171"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,7 +151,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,84 +164,72 @@
        id="rect2989"
        width="259.22"
        height="57.372467"
-       x="30.731312"
-       y="178.57245" />
+       x="240.81673"
+       y="158.95628" />
     <text
        xml:space="preserve"
        style="font-size:17.98262787px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="44.858044"
-       y="202.31145"
+       x="257.95993"
+       y="179.67883"
        id="text2991"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="44.858044"
-         y="202.31145"
+         x="257.95993"
+         y="179.67883"
          id="tspan2995">Applications requiring</tspan><tspan
          sodipodi:role="line"
-         x="44.858044"
-         y="224.78973"
+         x="257.95993"
+         y="202.15712"
          id="tspan2999">aliasses/share data about</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
-       d="m 249.23024,279.47614 c 0,0 0,-18.44001 0,-45.66095"
-       id="path3769"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 95.703707,280.00994 0,-43.90477"
-       id="path3769-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <rect
-       style="fill:#575757;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#575757;fill-opacity:0;stroke:#000000;stroke-width:1.48489141;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4421"
-       width="187.96959"
-       height="59.487591"
-       x="27.507183"
-       y="278.88211" />
+       width="139.55722"
+       height="44.166306"
+       x="26.937263"
+       y="246.18843" />
     <text
        xml:space="preserve"
-       style="font-size:18.70961761px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="40.280254"
-       y="302.49207"
+       style="font-size:13.89087582px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="35.666462"
+       y="265.2258"
        id="text4423"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4425"
-         x="40.280254"
-         y="302.49207"
-         style="font-size:18px">gpgshare obtained</tspan><tspan
+         x="35.666462"
+         y="265.2258"
+         style="font-size:13.36402321px">gpgshare obtained</tspan><tspan
          sodipodi:role="line"
-         x="40.280254"
-         y="324.99207"
+         x="35.666462"
+         y="281.93082"
          id="tspan4429"
-         style="font-size:18px">directory  </tspan></text>
+         style="font-size:13.36402321px">directory  </tspan></text>
     <rect
-       style="fill:#575757;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#575757;fill-opacity:0;stroke:#000000;stroke-width:1.3695631;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4421-9"
-       width="364.03461"
-       height="74.555305"
-       x="222.3484"
-       y="277.74509" />
+       width="249.28418"
+       height="51.054096"
+       x="11.323042"
+       y="308.33936" />
     <text
        xml:space="preserve"
-       style="font-size:17.89941597px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="230.82399"
-       y="298.25833"
+       style="font-size:12.25718975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="17.126966"
+       y="322.38644"
        id="text4423-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4425-5"
-         x="230.82399"
-         y="298.25833">gpgshare to-send</tspan><tspan
+         x="17.126966"
+         y="322.38644">gpgshare to-send</tspan><tspan
          sodipodi:role="line"
-         x="230.82399"
-         y="320.6326"
+         x="17.126966"
+         y="337.70792"
          id="tspan4429-5">directories</tspan><tspan
          sodipodi:role="line"
-         x="230.82399"
-         y="343.00687"
+         x="17.126966"
+         y="353.02942"
          id="tspan4458">one for each private/public community</tspan></text>
     <text
        xml:space="preserve"
@@ -242,62 +244,38 @@
          y="142.0273" /></text>
     <text
        xml:space="preserve"
-       style="font-size:13.43361568px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
-       x="97.252174"
-       y="265.94119"
-       id="text4470"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0052429,0.99478444)"><tspan
-         sodipodi:role="line"
-         id="tspan4472"
-         x="97.252174"
-         y="265.94119">(limit access)</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend)"
-       d="m 551.87939,354.10957 c 0,28.83136 0.61344,49.68809 0.61344,49.68809 l -17.78956,0 -16.5627,0"
-       id="path4498"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <text
-       xml:space="preserve"
        style="font-size:9.64617252px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="379.30951"
-       y="377.6687"
+       x="554.70569"
+       y="278.87061"
        id="text4504"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4506"
-         x="379.30951"
-         y="377.6687">.pubshare/.privshare</tspan><tspan
+         x="554.70569"
+         y="278.87061">.pubshare/.privshare</tspan><tspan
          sodipodi:role="line"
-         x="379.30951"
-         y="389.72641"
+         x="554.70569"
+         y="290.92831"
          id="tspan4508">signed/encrypted</tspan><tspan
          sodipodi:role="line"
-         x="379.30951"
-         y="401.78412"
-         id="tspan4510">data file</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 128.33723,383.33749 c -11.81575,0.47097 -45.734244,0.21688 -45.734244,0.21688 l 0,-44.16719"
-       id="path4512"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+         x="554.70569"
+         y="302.98602"
+         id="tspan4510">data files used directly</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.11350346px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
-       x="379.73114"
-       y="419.18311"
+       x="554.21252"
+       y="319.86697"
        id="text4470-7"
        sodipodi:linespacing="125%"
        transform="scale(1.0052429,0.99478444)"><tspan
          sodipodi:role="line"
          id="tspan4472-6"
-         x="379.73114"
-         y="419.18311">(no interest in</tspan><tspan
+         x="554.21252"
+         y="319.86697">(no interest in</tspan><tspan
          sodipodi:role="line"
-         x="379.73114"
-         y="430.57498"
+         x="554.21252"
+         y="331.25885"
          id="tspan5849"> method of sending)</tspan></text>
     <path
        sodipodi:type="arc"
@@ -308,82 +286,36 @@
        sodipodi:rx="88.947815"
        sodipodi:ry="43.553757"
        d="m 439.8316,329.12442 a 88.947815,43.553757 0 1 1 -177.89563,0 88.947815,43.553757 0 1 1 177.89563,0 z"
-       transform="translate(75.855221,73.446366)" />
+       transform="translate(251.2514,-25.351752)" />
     <rect
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect6089"
-       width="156.58804"
-       height="29.60737"
-       x="130.67621"
-       y="375.80518" />
+       width="161.11273"
+       height="48.460209"
+       x="306.07239"
+       y="277.00708" />
     <text
        xml:space="preserve"
        style="font-size:14.9361105px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="138.58147"
-       y="396.41019"
+       x="313.97766"
+       y="296.10385"
        id="text6091"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6093"
-         x="138.58147"
-         y="396.41019">gpg share program</tspan></text>
+         x="313.97766"
+         y="296.10385">gpg share program</tspan><tspan
+         sodipodi:role="line"
+         x="313.97766"
+         y="314.77399"
+         id="tspan3074"
+         style="fill:#000000">server</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
-       d="m 287.96966,395.2096 c 0,0 22.73405,0 49.955,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7);marker-mid:none;marker-end:none"
+       d="m 463.36584,296.41148 c 0,0 22.73405,0 49.955,0"
        id="path3769-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="m 291.17027,209.95277 c 34.9657,0 34.9657,0 34.9657,0"
-       id="path6119"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:10.68054008px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="343.99146"
-       y="203.01268"
-       id="text6121"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6123"
-         x="343.99146"
-         y="203.01268">request for some data</tspan><tspan
-         sodipodi:role="line"
-         x="343.99146"
-         y="216.36336"
-         id="tspan6125"
-         style="fill:#4d4d4d">(likely when too much to all obtain,</tspan><tspan
-         sodipodi:role="line"
-         x="343.99146"
-         y="229.71404"
-         style="fill:#4d4d4d"
-         id="tspan6175">and other 'alias' is aggrerator)</tspan></text>
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.90913355;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path5899-1"
-       sodipodi:cx="350.88379"
-       sodipodi:cy="329.12442"
-       sodipodi:rx="88.947815"
-       sodipodi:ry="43.553757"
-       d="m 439.8316,329.12442 a 88.947815,43.553757 0 1 1 -177.89563,0 88.947815,43.553757 0 1 1 177.89563,0 z"
-       transform="matrix(1.2126694,0,0,0.99770517,8.5941714,-119.02981)" />
-    <text
-       xml:space="preserve"
-       style="font-size:25.20404434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="607.27686"
-       y="307.7901"
-       id="text6163"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6165"
-         x="607.27686"
-         y="307.7901">some</tspan><tspan
-         sodipodi:role="line"
-         x="607.27686"
-         y="339.29517"
-         id="tspan6167">server</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -395,40 +327,21 @@
          id="tspan6171"
          x="50.301521"
          y="26.088425" /></text>
-    <rect
-       style="fill:#4d4d4d;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6369"
-       width="91.40155"
-       height="66.250786"
-       x="602.18085"
-       y="281.72446" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 541.45102,207.49904 c 89.56125,0 106.12395,0 106.12395,0 0,21.47016 0,41.0728 0,44.16719 l -0.68461,28.25902"
-       id="path6373"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow2Lend)"
-       d="m 640.8272,347.36181 c 0,76.67915 0,77.90601 0,77.90601 l -138.6359,0"
-       id="path6379"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-mid:none;marker-end:url(#Arrow1Mend)"
-       d="m 646.3481,262.09459 c -53.36869,0 -53.36869,2.45373 -53.36869,2.45373 l 0,186.4837 -358.24499,0 0,-44.16719"
-       id="path6383"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:13.37786579px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="229.71802"
-       y="466.38458"
+       x="434.08289"
+       y="458.84344"
        id="text7741"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7743"
-         x="229.71802"
-         y="466.38458">wake up when request received</tspan></text>
+         x="434.08289"
+         y="458.84344">other server typically when too much</tspan><tspan
+         sodipodi:role="line"
+         x="434.08289"
+         y="475.56577"
+         id="tspan7188">data to hold otherwise</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -486,7 +399,7 @@
          x="50.704456"
          y="537.9425"
          style="font-size:18px;font-weight:normal;fill:#008000;-inkscape-font-specification:Sans"
-         id="tspan7783">access_allowed_group/alias_id/data_names/</tspan><tspan
+         id="tspan7783">(~/.gpgshare/)access_allowed_group/alias_id/data_names/</tspan><tspan
          sodipodi:role="line"
          x="50.704456"
          y="560.4425"
@@ -541,35 +454,114 @@
          x="64.813423"
          y="489.06488"
          style="font-size:18px;fill:#ff0000">Note: not as currently implemented</tspan></text>
-    <rect
-       style="fill:#666666;fill-opacity:0;stroke:#8a8787;stroke-width:1.8046174;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect7847"
-       width="289.12238"
-       height="38.228249"
-       x="276.5607"
-       y="124.14005" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 265.13573,246.20521 c 23.37753,51.27975 4.52468,39.96804 23.37753,50.52564"
+       id="path6282"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 266.2669,347.63353 c 23.37753,-51.27975 4.52468,-39.96804 23.37753,-50.52564"
+       id="path6282-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7);marker-mid:none;marker-end:url(#Arrow1Lend)"
+       d="m 331.49775,274.19916 c 0,0 0,-29.52108 0,-56.74203"
+       id="path3769-4-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
-       x="279.11209"
-       y="140.80043"
-       id="text7849"
+       style="font-size:15.06477833px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="342.81171"
+       y="246.86726"
+       id="text6522"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan7851"
-         x="279.11209"
-         y="140.80043"
-         style="font-size:13px;fill:#666666">browser addons</tspan><tspan
+         id="tspan6524"
+         x="342.81171"
+         y="246.86726">request/set data</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6089-1"
+       width="180.14853"
+       height="64.899139"
+       x="557.42401"
+       y="365.88147" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.9361105px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="571.72815"
+       y="383.91177"
+       id="text6091-2"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="279.11209"
-         y="157.05043"
-         id="tspan7853"
-         style="font-size:13px;fill:#666666">(can be limited, may speak to local servers</tspan></text>
+         x="571.72815"
+         y="383.91177"
+         id="tspan3074-9"
+         style="fill:#666666"><tspan
+           id="tspan6557"
+           style="fill:#000000">other</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="571.72815"
+         y="402.58191"
+         style="fill:#666666"
+         id="tspan6559"><tspan
+           style="fill:#000000"
+           id="tspan6561"> gpg share server </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="571.72815"
+         y="421.25204"
+         style="fill:#666666"
+         id="tspan7792"><tspan
+           style="fill:#000000"
+           id="tspan7794">instances</tspan></tspan></text>
     <path
-       style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
-       d="m 234.33149,178.83329 c 0,-25.79338 1.22686,-37.41942 1.22686,-37.41942 l 39.87316,0 -1.8403,0"
-       id="path7855"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7-6);marker-end:url(#Arrow2Lend)"
+       d="m 446.12307,326.14128 c 0,60.32912 0,60.32912 0,60.32912 l 109.34652,0"
+       id="path6563"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.64617252px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="451.39648"
+       y="368.02451"
+       id="text4504-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4506-2"
+         x="451.39648"
+         y="368.02451">.pubshare/.privshare</tspan><tspan
+         sodipodi:role="line"
+         x="451.39648"
+         y="380.08221"
+         id="tspan4510-2">file</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="M 477.04174,218.30299 C 462.71358,272.5992 462.71358,272.5992 462.71358,272.5992 L 590.91294,200.20426"
+       id="path7194"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.61607075px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="509.53601"
+       y="168.51544"
+       id="text7784"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7786"
+         x="509.53601"
+         y="168.51544"
+         style="font-size:10.61607075px">call affiliate programs</tspan><tspan
+         sodipodi:role="line"
+         x="509.53601"
+         y="181.78554"
+         style="font-size:10.61607075px"
+         id="tspan7788">(perhaps fetching a pubshare/privshare file)</tspan><tspan
+         sodipodi:role="line"
+         x="509.53601"
+         y="195.05562"
+         style="font-size:10.61607075px"
+         id="tspan7790">or adding servers</tspan></text>
   </g>
 </svg>
