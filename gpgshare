@@ -103,8 +103,9 @@ send()
             mv "$2.tar.gpg" "$2"
             echo pubshare;;
         *) #It is for the group or person
+#TODO asks you stuff sometimes 
+# (pass on some responsibility.. note might not get solved in prototype)
             gpg2 -z 6 -e -r "$2" "$2.tar"
-            #TODO why doesnt it ask for passphrase? doesnt seem to work
             mv "$2.tar.gpg" "$2.privshare"
             echo "$2.privshare";;
         #Groups should work? Docs tell of the existance but not if it works in this context.
@@ -112,10 +113,10 @@ send()
     esac
 }
 
-case $1
-    send)    $1 "$2" "$3" ;;
-    receive) $1 "$2" ;;
-    chores)  $1 "$2" ;;
-    selfdir) $1
-    *)       err "$@" not correct input, invalid command
+case "$1" in
+    send)    send "$2" "$3" ;;
+    receive) receive "$2" ;;
+    chores)  chores "$2" ;;
+    selfdir) selfdir ;;
+    *)       err "$@" not correct input, invalid command ;;
 esac
