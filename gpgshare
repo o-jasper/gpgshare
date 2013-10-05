@@ -1,0 +1,121 @@
+#!/bin/bash
+# Author Jasper den Ouden
+#Placed in public domain  5-10-2013
+
+#NOTE: this is mainly prototyping the idea.
+# I have the feeling that choosing alias-/file-/directory- names might allow 
+# arbitrary code execution! 
+# (and doubt that is the end of it)
+
+### General definitions
+err()
+{  echo Error: $@ > /dev/stderr
+}
+warn()
+{  echo Warning: $@ > /dev/stderr
+}
+
+if [ "$STORE" == "" ]; then
+    if [ "$GPGSHARE_TESTING" == "" ]; then
+        err when testing, override \$STORE
+        exit -1
+    fi
+    STORE=~/.store/
+fi
+
+own_alias()
+{   echo todo_alias
+}
+selfdir()
+{   echo $STORE/to_send/`own_alias`/
+}
+
+### Chores.
+do_chore()
+{  #Do the chores of the user $1
+    if [ -e "$STORE/do_chores/$1" -a -e "$STORE/obtained/$1" ]; then
+        #Deals with stuff already in there.
+        for el in `ls -d "$STORE/obtained/$1/"*`; do
+          #Hmm, only allow symlinks to userspace-nonwritable?
+            if [ -e "$STORE/bin/"`basename $el` ]; then 
+	        "$STORE/bin/"`basename "$el"` "$el"
+            fi
+        done
+    fi
+}
+
+chores()
+{   if [ "$1" == "all" ]; then
+       for el in `ls $STORE/received`; do
+            do_chore `basename $el`
+       done    
+    else
+       do_chore "$1"
+    fi
+}
+
+### Receiving
+# Arguments: just the file, it (TODO DOESNT) figures out from who it came from
+receive()
+{
+    case "$1" in
+        *pubshare) #Public, signed sharing.
+	    gpg2 -d "$1" > "$1.tar"
+	    HANDLE="$1.tar";;
+        *.privshare) #Private, encrypted sharing.
+	    #(todo) try-all-secrets if hiding recipients.
+	    gpg2 -d $1 > "$1.tar"
+	    HANDLE="$1.tar";;
+        *) #Dont know what this is.
+	    err 'invalid file extension, must be .pubshare or .privshare'
+	    exit -1;;
+    esac
+    #TODO figure who it came from, if that is a known signature..
+    #FROM_NAME= #.... how? read stdout? (it doesn seem specified)
+    if [ "$FROM_NAME"=="" ]; then
+        FROM_NAME='figure_out_name'
+    fi
+    if [ -e "$STORE/before_update/$FROM_NAME" -a -e "$STORE/received/$FROM_NAME" ]; then
+        chores
+    fi
+    #After this point it is up to the programs using the data to deal with it.
+    # Note that it overwrites existing data. 
+    mkdir -p "$STORE/obtained/$FROM_NAME/"
+    tar -xf $HANDLE -C "$STORE/obtained/$FROM_NAME/"
+    mkdir -p "$STORE/todo/";
+    touch "$STORE/todo/$FROM_NAME";
+}
+
+### Sending
+
+#Compiles data for some set of recipients.
+# Arguments: 
+#   Data directories/files, possibly comma-separated.
+#   Recipient(can be gpg group if --hidden-recipient allows.
+send()
+{
+    #TODO figure out gpgs current alias and get from that 
+    cd `selfdir`
+    tar -cf "$2.tar" `echo "$1" | tr ',' '\n'` #Tarball a list
+    case "$2" in
+        *.pubshare) #It is for anyone who finds the file.
+            gpg2 -z 6 --sign $2.tar
+            mv "$2.tar.gpg" "$2"
+            echo pubshare;;
+        *) #It is for the group or person
+            gpg2 -z 6 -e -r "$2" "$2.tar"
+            #TODO why doesnt it ask for passphrase? doesnt seem to work
+            mv "$2.tar.gpg" "$2.privshare"
+            echo "$2.privshare";;
+        #Groups should work? Docs tell of the existance but not if it works in this context.
+        # NOTE  some people might want to use `--hidden-recipient`
+    esac
+}
+
+case $1
+    send)    $1 "$2" "$3" ;;
+    receive) $1 "$2" ;;
+    chores)  $1 "$2" ;;
+    selfdir) $1
+    *)       err "$@" not correct input, invalid command
+esac
